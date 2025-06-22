@@ -8,7 +8,7 @@ import json
 # Configuration
 def load_config():
     return {
-        "OPENROUTER_API_KEY": "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",
+        "OPENROUTER_API_KEY": "",
         "CHROMA_DB_PATH": "medical_db"
     }
 
